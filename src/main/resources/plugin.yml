@@ -1,0 +1,4 @@
+name: TF-Bungee
+main: me.totalfreedom.bungee.Bungee
+version: 1.0
+author: scripthead

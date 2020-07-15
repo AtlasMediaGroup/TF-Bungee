@@ -1,0 +1,5 @@
+# TF-Bungee Config
+# by scripthead
+
+# The primary server for getting the MOTD
+primary-server: "free-op"
